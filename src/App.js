@@ -1,23 +1,33 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Tree from 'react-d3-tree';
+
+const myTreeData = [
+  {
+    name: 'Main Topic',
+    children: [
+      {
+        name: 'Subtopic 1',
+      },
+      {
+        name: 'Subtopic 2',
+      },
+    ],
+  },
+];
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div
+      style={{
+        width: '800px',
+        height: '600px',
+        display: 'flex',
+        alignItems: 'center',
+        justifyContent: 'center',
+      }}
+    >
+      <Tree data={myTreeData} translate={{ x: 400, y: 300 }} />
     </div>
   );
 }
