@@ -4,30 +4,53 @@ import Tree from 'react-d3-tree';
 
 const myTreeData = [
   {
-    name: 'Main Topic',
+    name: 'HCs',
     children: [
       {
-        name: 'Subtopic 1',
+        name: 'Communicating Effectively',
+        children: [
+          {
+            name: 'Using language',
+            children: [
+              {
+                name: '#audience',
+              },
+            ],
+          },
+          {
+            name: 'Using nonverbal communication',
+          },
+        ],
       },
       {
-        name: 'Subtopic 2',
+        name: 'Interacting Effectively',
+        children: [
+          { name: 'Interacting with complex systems' },
+          { name: 'Negotiating and persuading' },
+        ],
       },
     ],
   },
 ];
 
+
 function App() {
   return (
     <div
       style={{
-        width: '800px',
-        height: '600px',
+        width: '220vh',
+        height: '99vh',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
       }}
     >
-      <Tree data={myTreeData} translate={{ x: 400, y: 300 }} />
+      <Tree
+        data={myTreeData}
+        translate={{ x: 300, y: 300 }}
+        nodeSize={{ x: 200, y: 100 }}
+        separation={{ siblings: 1.5, nonSiblings: 2 }}
+      />
     </div>
   );
 }
