@@ -29,6 +29,25 @@ const myTreeData = [
           { name: 'Negotiating and persuading' },
         ],
       },
+      {
+        name: 'Thinking Creatively',
+        children: [
+          { name: 'Applying research methods' },
+          { name: 'Facilitating discovery' },
+        ],
+      },
+      {
+        name: 'Thinking Critically',
+        children: [
+          { name: 'Evaluating claims' },
+          { name: 'Evaluating justifications',
+          children: [
+            {
+              name: '#evidencebased',
+            },
+          ],},
+        ],
+      },
     ],
   },
 ];
@@ -48,7 +67,7 @@ function App() {
       <Tree
         data={myTreeData}
         translate={{ x: 300, y: 300 }}
-        nodeSize={{ x: 200, y: 100 }}
+        nodeSize={{ x: 250, y: 100 }}
         separation={{ siblings: 1.5, nonSiblings: 2 }}
       />
     </div>
