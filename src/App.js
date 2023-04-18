@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Tree from 'react-d3-tree';
 
-const myTreeData = [  {    name: 'HCs',
+const initialTreeData  = [  {    name: 'HCs',
 children: [{name: 'Communicating Effectively',
 children: [
   {name: 'Using language',
@@ -13,7 +13,7 @@ children: [
     {name: '#organization',},
     {name: '#professionalism',},
     {name: '#thesis',},
-],
+], _collapsed: true,
           },
           {
             name: 'Using nonverbal communication',
@@ -79,8 +79,6 @@ children: [
   },
 ];
 
-
-
 function App() {
   return (
     <div
@@ -89,14 +87,15 @@ function App() {
         height: '99vh',
         display: 'flex',
         alignItems: 'center',
-        justifyContent: 'center',
+        justifyContent: 'left',
       }}
     >
       <Tree
-        data={myTreeData}
+        data={initialTreeData}
         translate={{ x: 300, y: 300 }}
         nodeSize={{ x: 314, y: 70 }}
         separation={{ siblings: 1.5, nonSiblings: 2 }}
+        initialDepth={2}
       />
     </div>
   );
