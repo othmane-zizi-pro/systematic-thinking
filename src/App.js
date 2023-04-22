@@ -101,7 +101,20 @@ children: [
             {name: '#analogies',},
             {name: '#constraints',},
             {name: '#designthinking',},
-            {name: '#heuristics',},
+            {name: '#heuristics',
+            children: [{name: "Problem-solving (Martinez, 1998)",
+            children: [{name: "1. Means-ends analysis",},
+            {name: "2. Working backward"},
+            {name: "3. Successive approximation"},
+            {name: "4. External representation"},
+          ]},
+          {name: "Creative hypothesis generation (McGuire, 1997)",
+            children: [{name: "19. Shifting attention to an opposite pole of the problem",},
+          ]
+        
+        
+        }]
+          },
             {name: '#optimization',},
             {name: '#scienceoflearning',
             children: [{name: "Think it through",
@@ -211,7 +224,7 @@ function App() {
       <Tree
         data={initialTreeData}
         translate={{ x: 300, y: 300 }}
-        nodeSize={{ x: 314, y: 70 }}
+        nodeSize={{ x: 420, y: 70 }} //x: 314
         separation={{ siblings: 1.5, nonSiblings: 2 }}
         initialDepth={2}
       />
