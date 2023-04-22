@@ -159,8 +159,18 @@ children: [
             {name: '#breakitdown',},
             {name: '#gametheory',},
             {name: '#gapanalysis',},
-            {name: '#rightproblem',},
-            {name: '#variables',},
+            {name: '#rightproblem', children: [
+              {name: 'Initial state'},
+              {name: 'Goal state'},
+              {name: 'Obstacles'},
+              {name: 'Scale of the problem'},
+            ]},
+            {name: '#variables', children: [
+              {name: 'Independent variable'},
+              {name: 'Depending variable'},
+              {name: 'Control variable'},
+              {name: 'Confounding variable'},
+            ]},
         ], },
           { name: 'Evaluating claims' ,
           children: [
