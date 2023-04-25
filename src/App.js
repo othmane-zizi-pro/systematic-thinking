@@ -223,10 +223,11 @@ function App() {
     >
       <Tree
         data={initialTreeData}
-        translate={{ x: 300, y: 300 }}
+        translate={{ x: 360, y: 270 }}
         nodeSize={{ x: 420, y: 70 }} //x: 314
         separation={{ siblings: 1.5, nonSiblings: 2 }}
         initialDepth={2}
+        zoom={0.35} // set zoom level here
       />
     </div>
   );
