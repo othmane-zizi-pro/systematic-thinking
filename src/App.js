@@ -199,7 +199,7 @@ children: [
             children: [
               {name: '#deduction',},
               {name: '#evidencebased',},
-              {name: '#fallacies',},
+              {name: '#fallacies',children: [{name: "Base rate fallacy"},]},
               {name: '#induction',},
               {name: '#sourcequality',},
             ],
