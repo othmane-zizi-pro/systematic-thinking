@@ -42,11 +42,19 @@ children: [
         children: [
           { name: 'Interacting with complex systems',
           children: [
-            {name: '#complexcausality',},
+            {name: '#complexcausality',children: [
+              {name: 'Sufficient/jointly-sufficient',},
+              {name: 'Necessary',},
+              {name: 'Lower/higher-level mechanisms',},
+          ],},
             {name: '#emergentproperties',},
             {name: '#levelsofanalysis',},
-            {name: '#networks',},
-            {name: '#systemdynamics',},
+            {name: '#networks'},
+            {name: '#systemdynamics',children: [
+              {name: 'Phase space',},
+              {name: 'Regime change',},
+              {name: 'Basins of attraction/attractors',},
+          ],},
             {name: '#systemmapping',},
         ], },
           { name: 'Negotiating and persuading' ,
@@ -191,7 +199,7 @@ children: [
             {name: '#critique',},
             {name: '#estimation',},
             {name: '#interpretivelens',},
-            {name: '#plausibility',},
+            {name: '#plausibility',children: [{name: "Explanatory power"},]},
             {name: '#testability',},
         ], },
           {
