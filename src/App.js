@@ -50,6 +50,7 @@ children: [
             {name: '#emergentproperties',children: [
               {name: 'Nonlinear effects',},
               {name: 'Superadditive principles',},
+              {name: 'Not deterministic',},
           ],},
             {name: '#levelsofanalysis', children: [
               {name: 'Interdisciplinary interactions between levels'}
@@ -61,10 +62,10 @@ children: [
                 {name: 'Unidirectional edges',},]},
               {name: 'Distance/Eigenvector distance',},
               {name: 'Network structure', children: [
-                {name: 'Small-world network'}
+                {name: 'Small-world network',},
               ]},
             ]}, 
-          ,
+          
             {name: '#systemdynamics',children: [
               {name: 'Phase space',children: [
                 {name: 'Regime change',},
