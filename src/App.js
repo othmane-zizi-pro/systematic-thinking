@@ -47,22 +47,52 @@ children: [
               {name: 'Necessary',},
               {name: 'Lower/higher-level mechanisms',},
           ],},
-            {name: '#emergentproperties',},
-            {name: '#levelsofanalysis',},
-            {name: '#networks'},
-            {name: '#systemdynamics',children: [
-              {name: 'Phase space',},
-              {name: 'Regime change',},
-              {name: 'Basins of attraction/attractors',},
+            {name: '#emergentproperties',children: [
+              {name: 'Nonlinear effects',},
+              {name: 'Superadditive principles',},
           ],},
-            {name: '#systemmapping',},
+            {name: '#levelsofanalysis', children: [
+              {name: 'Interdisciplinary interactions between levels'}
+            ]},
+            {name: '#networks', children: [
+              {name: 'Nodes',},
+              {name: 'Edges',children: [
+                {name: 'Bidirectional edges',},
+                {name: 'Unidirectional edges',},]},
+              {name: 'Distance/Eigenvector distance',},
+              {name: 'Network structure', children: [
+                {name: 'Small-world network'}
+              ]},
+            ]}, 
+          ,
+            {name: '#systemdynamics',children: [
+              {name: 'Phase space',children: [
+                {name: 'Regime change',},
+                {name: 'Basins of attraction',},
+                {name: 'Attractors',},
+                {name: 'Critical point',},]},
+              {name: 'Feedback loops',children: [
+                  {name: 'Positive/reinforcing feedback loops',},
+                  {name: 'Balacing feedback loops',},
+                  {name: 'Negative feedback loops',},]},
+              {name: 'Leverage points',},
+              {name: 'Nth-order effects/Unintended outcomes',},
+          ],},
+            {name: '#systemmapping',children: [
+              {name: 'Agents',},]},
         ], },
           { name: 'Negotiating and persuading' ,
           children: [
             {name: '#carrotandstick',},
             {name: '#confidence',},
-            {name: '#negotiate',},
-            {name: '#nudge',},
+            {name: '#negotiate', children: [
+              {name: 'Principled negotiation'},
+              {name: 'Positional negotiation'},
+            ]},
+            {name: '#nudge', children: [
+              {name: 'Liberty-preserving'},
+              {name: 'Default choice'}
+            ]},
             {name: '#persuasion',},
         ],},
         { name: 'Resolving ethical problems' ,
