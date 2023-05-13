@@ -200,12 +200,19 @@ children: [
         ], },
           { name: 'Analyzing decisions'  ,
           children: [
-            {name: '#biasidentification',},
+            {name: '#biasidentification', children: [
+              {name: 'Availability bias'}
+            ]},
             {name: '#biasmitigation',},
             {name: '#decisiontrees',},
-            {name: '#psychologicalexplanation',},
+            {name: '#psychologicalexplanation', children: [
+              {name: "Maslow's hierarchy of needs"},
+              {name: "Intrinic vs. extrinsic motivation"},
+            ]},
             {name: '#purpose',},
-            {name: '#utility',},
+            {name: '#utility', children: [
+              {name: 'Expected value'}
+            ]},
         ],},
           { name: 'Analyzing problems' ,
           children: [
