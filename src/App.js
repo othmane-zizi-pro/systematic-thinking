@@ -2,7 +2,7 @@ import React from 'react';
 import './App.css';
 import Tree from 'react-d3-tree';
 
-const initialTreeData  = [  {    name: 'HCs',
+const initialTreeData  = [  {    name: 'Critical wisdom',
 children: [{name: 'Communicating Effectively',
 children: [
   {name: 'Using language',
