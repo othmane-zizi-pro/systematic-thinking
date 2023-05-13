@@ -60,6 +60,9 @@ children: [
               {name: 'Edges',children: [
                 {name: 'Bidirectional edges',},
                 {name: 'Unidirectional edges',},]},
+              {name: 'Thresholds',children: [
+                {name: 'Bandwagon effect',},
+                ]},
               {name: 'Distance/Eigenvector distance',},
               {name: 'Network structure', children: [
                 {name: 'Small-world network',},
