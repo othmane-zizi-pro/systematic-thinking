@@ -58,12 +58,11 @@ children: [
             {name: '#networks', children: [
               {name: 'Nodes',},
               {name: 'Edges',children: [
-                {name: 'Bidirectional edges',},
-                {name: 'Unidirectional edges',},]},
+                {name: 'Directionality',},]},
               {name: 'Thresholds',children: [
                 {name: 'Bandwagon effect',},
                 ]},
-              {name: 'Distance/Eigenvector distance',},
+              {name: 'Distance',},
               {name: 'Network structure', children: [
                 {name: 'Small-world network',},
               ]},
@@ -76,9 +75,8 @@ children: [
                 {name: 'Attractors',},
                 {name: 'Critical point',},]},
               {name: 'Feedback loops',children: [
-                  {name: 'Positive/reinforcing feedback loops',},
-                  {name: 'Balacing feedback loops',},
-                  {name: 'Negative feedback loops',},]},
+                  {name: 'Reinforcing feedback loops (positive/negative)',},
+                  {name: 'Balacing feedback loops',},]},
               {name: 'Leverage points',},
               {name: 'Nth-order effects/Unintended outcomes',},
           ],},
@@ -268,8 +266,8 @@ function App() {
         translate={{ x: 360, y: 270 }}
         nodeSize={{ x: 420, y: 70 }} //x: 314
         separation={{ siblings: 1.5, nonSiblings: 2 }}
-        initialDepth={2}
-        zoom={0.35} // set zoom level here
+        initialDepth={1}
+        zoom={0.55} // set zoom level here
       />
     </div>
   );
