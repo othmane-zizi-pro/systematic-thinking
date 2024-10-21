@@ -194,9 +194,15 @@ children: [
             {name: '#correlation',},
             {name: '#descriptivestats',},
             {name: '#distributions',},
-            {name: '#probability',},
+            {name: '#probability', children: [
+              {name: 'Bayesian probability'}
+            ]},
             {name: '#regression',},
-            {name: '#significance',},
+            {name: '#significance', children: [
+              {name: 'Null hypothesis vs. alternative hypothesis'},
+              {name: 'p-value (percentage chance that we would get this result if the null hypothesis were true)'},
+              {name: "Effect size"},
+            ]},
         ], },
           { name: 'Analyzing decisions'  ,
           children: [
