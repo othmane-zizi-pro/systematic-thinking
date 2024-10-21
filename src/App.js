@@ -197,6 +197,7 @@ children: [
               {name: 'Average'},
               {name: 'Median'},
               {name: 'Quartiles'},
+              {name: 'Percentiles'},
             ]},
             {name: '#distributions', children: [
               {name: 'Normal distribution'}
