@@ -192,8 +192,15 @@ children: [
           children: [
             {name: '#confidenceintervals',},
             {name: '#correlation',},
-            {name: '#descriptivestats',},
-            {name: '#distributions',},
+            {name: '#descriptivestats', children: [
+              {name: 'Extrema (min and max)'},
+              {name: 'Average'},
+              {name: 'Median'},
+              {name: 'Quartiles'},
+            ]},
+            {name: '#distributions', children: [
+              {name: 'Normal distribution'}
+            ]},
             {name: '#probability', children: [
               {name: 'Bayesian probability'}
             ]},
