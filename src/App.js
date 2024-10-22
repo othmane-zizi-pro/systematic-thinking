@@ -119,11 +119,14 @@ children: [
       {
         name: 'Thinking Creatively',
         children: [
-          { name: 'Applying research methods' ,
+          { name: 'Applying research methods',
           children: [
             {name: '#casestudy',},
             {name: '#comparisongroups',},
-            {name: '#interventionalstudy',},
+            {name: '#interventionalstudy', children: [
+            {name: 'Experimental units',},
+            {name: 'Treatment',},
+        ]},
             {name: '#interviewsurvey',},
             {name: '#observationalstudy',},
             {name: '#sampling',},
@@ -216,6 +219,7 @@ children: [
               {name: 'Null hypothesis'},
               {name: 'Alternative hypothesis'},
               {name: 'Central Limit Theorem'},
+              {name: 'Difference of means'},
               {name: 'p-value (percentage chance that we would get this result if the null hypothesis were true)'},
             ]},
               {name: "Effect size", children: [
