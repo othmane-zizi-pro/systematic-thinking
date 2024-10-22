@@ -202,14 +202,21 @@ children: [
               {name: 'Variance'},
             ]},
             {name: '#distributions', children: [
-              {name: 'Normal distribution'}
+              {name: 'Normal distribution'},
+              {name: 'T-distribution', children: [
+              {name: 'Degrees of freedom'},
+            ]},
             ]},
             {name: '#probability', children: [
               {name: 'Bayesian probability'}
             ]},
             {name: '#regression',},
             {name: '#significance', children: [
-              {name: 'Hypothesis testing: Null hypothesis vs. alternative hypothesis'},
+              {name: 'Hypothesis testing', children: [
+              {name: 'Null hypothesis'},
+              {name: 'Alternative hypothesis'},
+              {name: 'Central Limit Theorem'},
+            ]},
               {name: 'p-value (percentage chance that we would get this result if the null hypothesis were true)'},
               {name: "Effect size", children: [
               {name: 't-test'},
