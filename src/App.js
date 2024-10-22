@@ -216,8 +216,8 @@ children: [
               {name: 'Null hypothesis'},
               {name: 'Alternative hypothesis'},
               {name: 'Central Limit Theorem'},
-            ]},
               {name: 'p-value (percentage chance that we would get this result if the null hypothesis were true)'},
+            ]},
               {name: "Effect size", children: [
               {name: 't-test'},
             ]},
