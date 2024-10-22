@@ -194,10 +194,12 @@ children: [
             {name: '#correlation',},
             {name: '#descriptivestats', children: [
               {name: 'Extrema (min and max)'},
-              {name: 'Average'},
+              {name: 'Mean'},
               {name: 'Median'},
               {name: 'Quartiles'},
               {name: 'Percentiles'},
+              {name: 'Standard deviation'},
+              {name: 'Variance'},
             ]},
             {name: '#distributions', children: [
               {name: 'Normal distribution'}
@@ -207,9 +209,11 @@ children: [
             ]},
             {name: '#regression',},
             {name: '#significance', children: [
-              {name: 'Null hypothesis vs. alternative hypothesis'},
+              {name: 'Hypothesis testing: Null hypothesis vs. alternative hypothesis'},
               {name: 'p-value (percentage chance that we would get this result if the null hypothesis were true)'},
-              {name: "Effect size"},
+              {name: "Effect size", children: [
+              {name: 't-test'},
+            ]},
             ]},
         ], },
           { name: 'Analyzing decisions'  ,
