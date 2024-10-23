@@ -23,7 +23,16 @@ children: [{name: (
                   </a>
                 ),
 children: [
-  {name: 'Using language',
+  {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Using-language-1285bd9a7d0c809b96e7ca54ed94134e"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Using language
+                  </a>
+                ),
   children: [
     {name: (
                   <a
@@ -43,7 +52,16 @@ children: [
 ], _collapsed: true,
           },
           {
-            name: 'Using nonverbal communication',
+            name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Using-nonverbal-communication-1285bd9a7d0c808e83dbf0de3d883dd1"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Using nonverbal communication
+                  </a>
+                ),
             children: [
               {name: '#communicationdesign',
               children: [{name: 'Encoding Processes',
@@ -76,7 +94,16 @@ children: [
                   </a>
                 ),
         children: [
-          { name: 'Interacting with complex systems',
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Interacting-with-complex-systems-1285bd9a7d0c80cbbf6be6889a4d52f7"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Interacting with complex systems
+                  </a>
+                ),
           children: [
             {name: '#complexcausality',children: [
               {name: 'Sufficient/jointly-sufficient',},
