@@ -44,11 +44,56 @@ children: [
                     #audience
                   </a>
                 )},
-    {name: '#composition',},
-    {name: '#connotation',},
-    {name: '#organization',},
-    {name: '#professionalism',},
-    {name: '#thesis',},
+    {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/composition-1285bd9a7d0c80c48b15f5380954d21c"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #composition
+                  </a>
+                )},
+    {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/connotation-1285bd9a7d0c80258c11e7b8a9f8e963"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #connotation
+                  </a>
+                ),},
+    {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/organization-1285bd9a7d0c808f89fad07808fadd27"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #organization
+                  </a>
+                ),},
+    {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/professionalism-1285bd9a7d0c8037baf9faa04602cde6"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #professionalism
+                  </a>
+                ),},
+    {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/thesis-1285bd9a7d0c80a8a18ceab709be17aa"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #thesis
+                  </a>
+                ),},
 ], _collapsed: true,
           },
           {
@@ -63,7 +108,16 @@ children: [
                   </a>
                 ),
             children: [
-              {name: '#communicationdesign',
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/communicationdesign-1285bd9a7d0c80988f5ede7d84d0df3a"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #communicationdesign
+                  </a>
+                ),
               children: [{name: 'Encoding Processes',
               children: [{name: "1. Discriminability"},
                           {name: "2. Perceptual organization"},
@@ -75,9 +129,36 @@ children: [
               children: [{name: "6. Appropriate knowledge"},
                           {name: "7. Compatibility"},
                           {name: "8. Relevance"},]}],},
-              {name: '#expression',},
-              {name: '#medium',},
-              {name: '#multimedia',},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/expression-1285bd9a7d0c807aa1c5fffd93d3338e"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #expression
+                  </a>
+                ),},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/medium-1285bd9a7d0c80eaa600d79c3f30a261"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #medium
+                  </a>
+                ),},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/multimedia-1285bd9a7d0c8078952fed55e5ba5e53"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #multimedia
+                  </a>
+                ),},
           ],
           },
         ],
