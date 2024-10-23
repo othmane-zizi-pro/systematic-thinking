@@ -269,7 +269,7 @@ children: [
               {name: 'Leverage points',},
               {name: 'Nth-order effects/Unintended outcomes',},
           ],},
-            {name: '(
+            {name: (
                   <a
                     href="https://petite-lute-69e.notion.site/systemmapping-1285bd9a7d0c808b9947c2d804198d9b"
                     target="_blank"
@@ -278,7 +278,7 @@ children: [
                   >
                     #systemmapping
                   </a>
-                )',children: [
+                ),children: [
               {name: 'Agents',},]},
         ], },
           { name: (
