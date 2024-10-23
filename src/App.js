@@ -2,14 +2,14 @@ import React from 'react';
 import './App.css';
 import Tree from 'react-d3-tree';
 
-const initialTreeData  = [  {    name: 'Critical wisdom',
+const initialTreeData  = [  {    name: 'Critical Wisdom',
 children: [{name: 'Communicating Effectively',
 children: [
   {name: 'Using language',
   children: [
     {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/audience-1285bd9a7d0c80bb96dbee42abc52e6b?pvs=4"
+                    href="https://petite-lute-69e.notion.site/audience-1285bd9a7d0c80bb96dbee42abc52e6b"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ color: 'blue', textDecoration: 'underline' }}
