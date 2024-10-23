@@ -186,20 +186,56 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#complexcausality',children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/complexcausality-1285bd9a7d0c80e289c5dac825188f6d"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #complexcausality
+                  </a>
+                ),children: [
               {name: 'Sufficient/jointly-sufficient',},
               {name: 'Necessary',},
               {name: 'Lower/higher-level mechanisms',},
           ],},
-            {name: '#emergentproperties',children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/emergentproperties-1285bd9a7d0c8069b03af0789b062833"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #emergentproperties
+                  </a>
+                ),children: [
               {name: 'Nonlinear effects',},
               {name: 'Superadditive principles',},
               {name: 'Not deterministic',},
           ],},
-            {name: '#levelsofanalysis', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/levelsofanalysis-1285bd9a7d0c8036b8ede4a02364a89f"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #levelsofanalysis
+                  </a>
+                ), children: [
               {name: 'Interdisciplinary interactions between levels'}
             ]},
-            {name: '#networks', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/networks-1285bd9a7d0c809598b7df9af3b6774c"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #networks
+                  </a>
+                ), children: [
               {name: 'Nodes',},
               {name: 'Edges',children: [
                 {name: 'Directionality',},]},
@@ -212,7 +248,16 @@ children: [
               ]},
             ]}, 
           
-            {name: '#systemdynamics',children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/systemdynamics-1285bd9a7d0c80b0af10d6d830e7a3e4"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #systemdynamics
+                  </a>
+                ),children: [
               {name: 'Phase space',children: [
                 {name: 'Regime change',},
                 {name: 'Basins of attraction',},
@@ -224,7 +269,16 @@ children: [
               {name: 'Leverage points',},
               {name: 'Nth-order effects/Unintended outcomes',},
           ],},
-            {name: '#systemmapping',children: [
+            {name: '(
+                  <a
+                    href="https://petite-lute-69e.notion.site/systemmapping-1285bd9a7d0c808b9947c2d804198d9b"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #systemmapping
+                  </a>
+                )',children: [
               {name: 'Agents',},]},
         ], },
           { name: (
