@@ -7,7 +7,16 @@ children: [{name: 'Communicating Effectively',
 children: [
   {name: 'Using language',
   children: [
-    {name: '#audience',},
+    {name: (
+                  <a
+                    href="https://example.com"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #audience
+                  </a>
+                )},
     {name: '#composition',},
     {name: '#connotation',},
     {name: '#organization',},
