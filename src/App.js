@@ -360,9 +360,36 @@ children: [
                   </a>
                 ),
         children: [
-          {name: '#ethicalconsiderations',},
-          {name: '#ethicalcourage',},
-          {name: '#ethicaljudgment',},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/ethicalconsiderations-1285bd9a7d0c802ebe7bcbcab81b722b"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #ethicalconsiderations
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/ethicalcourage-1285bd9a7d0c8001a634dcfed2ce7f0c"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #ethicalcourage
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/ethicaljudgement-1285bd9a7d0c80dd86abe6aec1e70b9b"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #ethicaljudgment
+                  </a>
+                ),},
       ],},
         { name: (
                   <a
@@ -375,14 +402,86 @@ children: [
                   </a>
                 ),
         children: [
-          {name: '#conformity',},
-          {name: '#differences',},
-          {name: '#emotionaliq',},
-          {name: '#leadprinciples',},
-          {name: '#powerdynamics',},
-          {name: '#responsibility',},
-          {name: '#selfawareness',},
-          {name: '#strategize',},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/conformity-1285bd9a7d0c8055822bc6a9f8a00b90"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #conformity
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/differences-1285bd9a7d0c809f91aff93284807d9d"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #differences
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/emotionaliq-1285bd9a7d0c803ca16efc312daabfb1"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #emotionaliq
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/leadprinciples-1285bd9a7d0c80899c86eb84cda1b22d"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #leadprinciples
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/powerdynamics-1285bd9a7d0c80459bebff3d9ac8d7be"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #powerdynamics
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/responsibility-1285bd9a7d0c8062badeeb6166a2f3a0"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #responsibility
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/selfawareness-1285bd9a7d0c80538460dee69961e360"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #selfawareness
+                  </a>
+                ),},
+          {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/strategize-1285bd9a7d0c80c88770da388c011539"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #strategize
+                  </a>
+                ),},
     ],},
         ],
       },
