@@ -146,7 +146,16 @@ children: [
             {name: '#systemmapping',children: [
               {name: 'Agents',},]},
         ], },
-          { name: 'Negotiating and persuading' ,
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Negotiating-and-persuading-1285bd9a7d0c808f88fecb47379185eb"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Negotiating and persuading
+                  </a>
+                ),
           children: [
             {name: '#carrotandstick',},
             {name: '#confidence',},
@@ -160,13 +169,31 @@ children: [
             ]},
             {name: '#persuasion',},
         ],},
-        { name: 'Resolving ethical problems' ,
+        { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Resolving-ethical-problems-1285bd9a7d0c80448cf6dce5502fd821"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Resolving ethical problems
+                  </a>
+                ),
         children: [
           {name: '#ethicalconsiderations',},
           {name: '#ethicalcourage',},
           {name: '#ethicaljudgment',},
       ],},
-        { name: 'Working with others' ,
+        { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Working-with-others-1285bd9a7d0c80bb846cd3c98da6debd"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Working with others
+                  </a>
+                ),
         children: [
           {name: '#conformity',},
           {name: '#differences',},
@@ -191,7 +218,16 @@ children: [
                   </a>
                 ),
         children: [
-          { name: 'Applying research methods',
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Applying-research-methods-1285bd9a7d0c80b48ae5f1be3b882e96"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Applying research methods
+                  </a>
+                ),
           children: [
             {name: '#casestudy',},
             {name: '#comparisongroups',},
@@ -204,13 +240,31 @@ children: [
             {name: '#sampling',},
             {name: '#studyreplication',},
         ],},
-          { name: 'Facilitating discovery' ,
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Facilitating-discovery-1285bd9a7d0c80d9886edffd81600844"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Facilitating discovery
+                  </a>
+                ),
           children: [
             {name: '#dataviz',},
             {name: '#hypothesisdevelopment',},
             {name: '#modeling',},
         ],},
-          { name: 'Solving problems' ,
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Solving-problems-1285bd9a7d0c80a89156d15ff5b17070"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Solving problems
+                  </a>
+                ),
           children: [
             {name: '#algorithms',},
             {name: '#analogies',},
@@ -272,7 +326,16 @@ children: [
                   </a>
                 ),
         children: [
-          { name: 'Analyzing data' ,
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Analyzing-data-1285bd9a7d0c80babd63e1ac5028b889"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Analyzing data
+                  </a>
+                ),
           children: [
             {name: '#confidenceintervals',},
             {name: '#correlation',},
@@ -308,7 +371,16 @@ children: [
             ]},
             ]},
         ], },
-          { name: 'Analyzing decisions'  ,
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Analyzing-decisions-1285bd9a7d0c8098af66ff3112383211"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Analyzing decisions
+                  </a>
+                ),
           children: [
             {name: '#biasidentification', children: [
               {name: 'Availability bias'}
@@ -324,7 +396,16 @@ children: [
               {name: 'Expected value'}
             ]},
         ],},
-          { name: 'Analyzing problems' ,
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Analyzing-problems-1285bd9a7d0c802c84a6e4ee57e81451"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Analyzing problems
+                  </a>
+                ),
           children: [
             {name: '#breakitdown',},
             {name: '#gametheory',},
@@ -342,7 +423,16 @@ children: [
               {name: 'Confounding variable'},
             ]},
         ], },
-          { name: 'Evaluating claims' ,
+          { name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Evaluating-claims-1285bd9a7d0c8002813cd0a468462164"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Evaluating claims
+                  </a>
+                ),
           children: [
             {name: '#context',},
             {name: '#critique',},
@@ -352,7 +442,16 @@ children: [
             {name: '#testability',},
         ], },
           {
-            name: 'Evaluating justifications',
+            name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Evaluating-justifications-1285bd9a7d0c8087bb6ac0ad30f03a58"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Evaluating justifications
+                  </a>
+                ),
             children: [
               {name: '#deduction',},
               {name: '#evidencebased',},
