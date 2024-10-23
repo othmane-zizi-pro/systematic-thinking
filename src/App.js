@@ -12,7 +12,16 @@ const initialTreeData  = [  {    name: (
                     Critical Wisdom
                   </a>
                 ),
-children: [{name: 'Communicating Effectively',
+children: [{name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Communicating-Effectively-1285bd9a7d0c807d90ffde5e087c4674"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Communicating Effectively
+                  </a>
+                ),
 children: [
   {name: 'Using language',
   children: [
@@ -56,7 +65,16 @@ children: [
         ],
       },
       {
-        name: 'Interacting Effectively',
+        name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Interacting-Effectively-1285bd9a7d0c80a7a37fe637fe393ee7"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Interacting Effectively
+                  </a>
+                ),
         children: [
           { name: 'Interacting with complex systems',
           children: [
@@ -135,7 +153,16 @@ children: [
         ],
       },
       {
-        name: 'Thinking Creatively',
+        name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Thinking-Creatively-1285bd9a7d0c8005b7d2fa61ff909e6f"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Thinking Creatively
+                  </a>
+                ),
         children: [
           { name: 'Applying research methods',
           children: [
@@ -207,7 +234,16 @@ children: [
         ],
       },
       {
-        name: 'Thinking Critically',
+        name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Thinking-Critically-1285bd9a7d0c80e29805f206cc41b5bb"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    Thinking Critically
+                  </a>
+                ),
         children: [
           { name: 'Analyzing data' ,
           children: [
