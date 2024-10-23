@@ -622,6 +622,7 @@ children: [
               {name: 'Extrema (min and max)'},
               {name: 'Mean'},
               {name: 'Median'},
+              {name: 'Mode'},
               {name: 'Quartiles'},
               {name: 'Percentiles'},
               {name: 'Standard deviation'},
@@ -629,6 +630,7 @@ children: [
             ]},
             {name: '#distributions', children: [
               {name: 'Normal distribution'},
+              {name: 'Bimodal distribution'},
               {name: 'T-distribution', children: [
               {name: 'Degrees of freedom'},
             ]},
