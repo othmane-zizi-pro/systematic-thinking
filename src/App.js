@@ -9,7 +9,7 @@ children: [
   children: [
     {name: (
                   <a
-                    href="https://example.com"
+                    href="https://petite-lute-69e.notion.site/audience-1285bd9a7d0c807d90ffde5e087c4674?pvs=4"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ color: 'blue', textDecoration: 'underline' }}
