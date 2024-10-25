@@ -7,15 +7,22 @@
   pointer-events: none;
 }
 
-/* Increase specificity to ensure this rule is applied */
+/* Forcing fill for SVG and color for standard text */
 .rd3t-label__title {
-  fill: white !important; /* Force it to override other rules */
+  fill: white !important;  /* For SVG elements */
+  color: white !important; /* For non-SVG elements */
 }
 
+/* Target all text nodes explicitly */
 .rd3t-label__title text {
-  fill: white !important; /* Forcing fill on SVG text elements */
+  fill: white !important;  /* Force white fill for SVG text */
 }
 
+/* Ensuring links inside nodes are white */
+.rd3t-label__title a {
+  color: white !important; /* Forcing white for links */
+  text-decoration: underline !important;
+}
 
 .rd3t-node {
   stroke: none; /* Remove the stroke if necessary */
