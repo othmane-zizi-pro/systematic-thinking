@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #201c1c;
+  background-color: #201c1c !important;
   color: white !important;
 }
 
@@ -20,7 +20,6 @@ a {
   color: white !important;
 }
 
-
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -33,18 +32,18 @@ a {
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #201c1c !important; /* Make it consistent with the body */
   min-height: 100vh;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
-  color: white;
+  color: white !important; /* Ensure text inside this header is white */
 }
 
 .App-link {
-  color: #61dafb;
+  color: white !important; /* Force links inside App-link to be white */
 }
 
 @keyframes App-logo-spin {
