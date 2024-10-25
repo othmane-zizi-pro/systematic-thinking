@@ -3,21 +3,12 @@
 }
 
 body {
-  background-color: #201c1c;
-  color: white !important;
+  background-color: "#201c1c";
+  color: white;
 }
 
 a {
-  color: white !important;
-}
-
-.app-container {
-  background-color: #201c1c !important;
-  color: white !important;
-}
-
-.app-container a {
-  color: white !important;
+  color: white;
 }
 
 
