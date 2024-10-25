@@ -7,6 +7,16 @@
   pointer-events: none;
 }
 
+.rd3t-label__title {
+  fill: white !important; /* Override the black text color */
+}
+
+.rd3t-node {
+  fill: white !important; /* Ensure node text is also white */
+  stroke: none; /* Remove the stroke if necessary */
+}
+
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
