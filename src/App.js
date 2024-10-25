@@ -7,7 +7,7 @@ const initialTreeData  = [  {    name: (
                     href="https://petite-lute-69e.notion.site/Critical-Wisdom-1285bd9a7d0c80e5aab4e350efb5d930"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Critical Wisdom
                   </a>
@@ -17,7 +17,7 @@ children: [{name: (
                     href="https://petite-lute-69e.notion.site/Communicating-Effectively-1285bd9a7d0c807d90ffde5e087c4674"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Communicating Effectively
                   </a>
@@ -28,7 +28,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Using-language-1285bd9a7d0c809b96e7ca54ed94134e"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Using language
                   </a>
@@ -39,7 +39,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/audience-1285bd9a7d0c80bb96dbee42abc52e6b"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #audience
                   </a>
@@ -49,7 +49,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/composition-1285bd9a7d0c80c48b15f5380954d21c"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #composition
                   </a>
@@ -59,7 +59,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/connotation-1285bd9a7d0c80258c11e7b8a9f8e963"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #connotation
                   </a>
@@ -69,7 +69,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/organization-1285bd9a7d0c808f89fad07808fadd27"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #organization
                   </a>
@@ -79,7 +79,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/professionalism-1285bd9a7d0c8037baf9faa04602cde6"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #professionalism
                   </a>
@@ -89,7 +89,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/thesis-1285bd9a7d0c80a8a18ceab709be17aa"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #thesis
                   </a>
@@ -102,7 +102,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Using-nonverbal-communication-1285bd9a7d0c808e83dbf0de3d883dd1"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Using nonverbal communication
                   </a>
@@ -113,7 +113,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/communicationdesign-1285bd9a7d0c80988f5ede7d84d0df3a"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #communicationdesign
                   </a>
@@ -134,7 +134,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/expression-1285bd9a7d0c807aa1c5fffd93d3338e"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #expression
                   </a>
@@ -144,7 +144,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/medium-1285bd9a7d0c80eaa600d79c3f30a261"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #medium
                   </a>
@@ -154,7 +154,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/multimedia-1285bd9a7d0c8078952fed55e5ba5e53"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #multimedia
                   </a>
@@ -169,7 +169,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Interacting-Effectively-1285bd9a7d0c80a7a37fe637fe393ee7"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Interacting Effectively
                   </a>
@@ -180,7 +180,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Interacting-with-complex-systems-1285bd9a7d0c80cbbf6be6889a4d52f7"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Interacting with complex systems
                   </a>
@@ -191,7 +191,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/complexcausality-1285bd9a7d0c80e289c5dac825188f6d"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #complexcausality
                   </a>
@@ -205,7 +205,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/emergentproperties-1285bd9a7d0c8069b03af0789b062833"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #emergentproperties
                   </a>
@@ -219,7 +219,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/levelsofanalysis-1285bd9a7d0c8036b8ede4a02364a89f"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #levelsofanalysis
                   </a>
@@ -231,7 +231,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/networks-1285bd9a7d0c809598b7df9af3b6774c"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #networks
                   </a>
@@ -253,7 +253,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/systemdynamics-1285bd9a7d0c80b0af10d6d830e7a3e4"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #systemdynamics
                   </a>
@@ -274,7 +274,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/systemmapping-1285bd9a7d0c808b9947c2d804198d9b"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #systemmapping
                   </a>
@@ -286,7 +286,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Negotiating-and-persuading-1285bd9a7d0c808f88fecb47379185eb"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Negotiating and persuading
                   </a>
@@ -297,7 +297,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/carrotandstick-1285bd9a7d0c80a1bd74da3767172d68"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #carrotandstick
                   </a>
@@ -307,7 +307,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/confidence-1285bd9a7d0c80188853c7c1db580aaa"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #confidence
                   </a>
@@ -317,7 +317,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/negotiate-1285bd9a7d0c80078632e55294d68a09"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #negotiate
                   </a>
@@ -330,7 +330,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/nudge-1285bd9a7d0c80738762c9c8aa94fbfe"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #nudge
                   </a>
@@ -343,7 +343,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/persuasion-1285bd9a7d0c804e8504fc22a0c963f0"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #persuasion
                   </a>
@@ -354,7 +354,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Resolving-ethical-problems-1285bd9a7d0c80448cf6dce5502fd821"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Resolving ethical problems
                   </a>
@@ -365,7 +365,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/ethicalconsiderations-1285bd9a7d0c802ebe7bcbcab81b722b"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #ethicalconsiderations
                   </a>
@@ -375,7 +375,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/ethicalcourage-1285bd9a7d0c8001a634dcfed2ce7f0c"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #ethicalcourage
                   </a>
@@ -385,7 +385,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/ethicaljudgement-1285bd9a7d0c80dd86abe6aec1e70b9b"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #ethicaljudgment
                   </a>
@@ -396,7 +396,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Working-with-others-1285bd9a7d0c80bb846cd3c98da6debd"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Working with others
                   </a>
@@ -407,7 +407,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/conformity-1285bd9a7d0c8055822bc6a9f8a00b90"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #conformity
                   </a>
@@ -417,7 +417,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/differences-1285bd9a7d0c809f91aff93284807d9d"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #differences
                   </a>
@@ -427,7 +427,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/emotionaliq-1285bd9a7d0c803ca16efc312daabfb1"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #emotionaliq
                   </a>
@@ -437,7 +437,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/leadprinciples-1285bd9a7d0c80899c86eb84cda1b22d"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #leadprinciples
                   </a>
@@ -447,7 +447,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/powerdynamics-1285bd9a7d0c80459bebff3d9ac8d7be"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #powerdynamics
                   </a>
@@ -457,7 +457,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/responsibility-1285bd9a7d0c8062badeeb6166a2f3a0"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #responsibility
                   </a>
@@ -467,7 +467,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/selfawareness-1285bd9a7d0c80538460dee69961e360"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #selfawareness
                   </a>
@@ -477,7 +477,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/strategize-1285bd9a7d0c80c88770da388c011539"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #strategize
                   </a>
@@ -491,7 +491,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Thinking-Creatively-1285bd9a7d0c8005b7d2fa61ff909e6f"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Thinking Creatively
                   </a>
@@ -502,7 +502,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Applying-research-methods-1285bd9a7d0c80b48ae5f1be3b882e96"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Applying research methods
                   </a>
@@ -513,7 +513,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #casestudy
                   </a>
@@ -523,7 +523,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #comparisongroups
                   </a>
@@ -533,7 +533,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #interventionalstudy
                   </a>
@@ -546,7 +546,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #interviewsurvey
                   </a>
@@ -556,7 +556,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #observationalstudy
                   </a>
@@ -566,7 +566,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #sampling
                   </a>
@@ -576,7 +576,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #studyreplication
                   </a>
@@ -587,7 +587,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Facilitating-discovery-1285bd9a7d0c80d9886edffd81600844"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Facilitating discovery
                   </a>
@@ -598,7 +598,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #dataviz
                   </a>
@@ -608,7 +608,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #hypothesisdevelopment
                   </a>
@@ -618,7 +618,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #modeling
                   </a>
@@ -629,7 +629,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Solving-problems-1285bd9a7d0c80a89156d15ff5b17070"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Solving problems
                   </a>
@@ -640,7 +640,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #algorithms
                   </a>
@@ -650,7 +650,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #analogies
                   </a>
@@ -660,7 +660,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #constraints
                   </a>
@@ -670,7 +670,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #designthinking
                   </a>
@@ -680,7 +680,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #heuristics
                   </a>
@@ -703,7 +703,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #optimization
                   </a>
@@ -713,7 +713,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #scienceoflearning
                   </a>
@@ -752,7 +752,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Thinking-Critically-1285bd9a7d0c80e29805f206cc41b5bb"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Thinking Critically
                   </a>
@@ -763,7 +763,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Analyzing-data-1285bd9a7d0c80babd63e1ac5028b889"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Analyzing data
                   </a>
@@ -774,7 +774,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #confidenceintervals
                   </a>
@@ -784,7 +784,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #correlation
                   </a>
@@ -794,7 +794,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #descriptivestats
                   </a>
@@ -813,7 +813,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #distributions
                   </a>
@@ -829,7 +829,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #probability
                   </a>
@@ -841,7 +841,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #regression
                   </a>
@@ -851,7 +851,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #significance
                   </a>
@@ -873,7 +873,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Analyzing-decisions-1285bd9a7d0c8098af66ff3112383211"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Analyzing decisions
                   </a>
@@ -884,7 +884,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #biasidentification
                   </a>
@@ -896,7 +896,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #biasmitigation
                   </a>
@@ -906,7 +906,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #decisiontree
                   </a>
@@ -916,7 +916,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #psychologicalexplanation
                   </a>
@@ -929,7 +929,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #purpose
                   </a>
@@ -939,7 +939,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #utility
                   </a>
@@ -952,7 +952,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Analyzing-problems-1285bd9a7d0c802c84a6e4ee57e81451"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Analyzing problems
                   </a>
@@ -963,7 +963,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #breakitdown
                   </a>
@@ -973,7 +973,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #gametheory
                   </a>
@@ -983,7 +983,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #gapanalysis
                   </a>
@@ -993,7 +993,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #rightproblem
                   </a>
@@ -1008,7 +1008,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #variables
                   </a>
@@ -1024,7 +1024,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Evaluating-claims-1285bd9a7d0c8002813cd0a468462164"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Evaluating claims
                   </a>
@@ -1035,7 +1035,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #context
                   </a>
@@ -1045,7 +1045,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #critique
                   </a>
@@ -1055,7 +1055,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #estimation
                   </a>
@@ -1065,7 +1065,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #interpretivelens
                   </a>
@@ -1075,7 +1075,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #plausibility
                   </a>
@@ -1085,7 +1085,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #testability
                   </a>
@@ -1097,7 +1097,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/Evaluating-justifications-1285bd9a7d0c8087bb6ac0ad30f03a58"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     Evaluating justifications
                   </a>
@@ -1108,7 +1108,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #deduction
                   </a>
@@ -1118,7 +1118,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #evidencebased
                   </a>
@@ -1128,7 +1128,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #fallacies
                   </a>
@@ -1138,7 +1138,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #induction
                   </a>
@@ -1148,7 +1148,7 @@ children: [
                     href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
                     target="_blank"
                     rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
+                    style={{ color: 'blue', textDecoration: 'underline' }}
                   >
                     #sourcequality
                   </a>
@@ -1170,7 +1170,6 @@ function App() {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'left',
-        color: 'white',
       }}
     >
       <Tree
