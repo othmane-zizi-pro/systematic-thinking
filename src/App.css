@@ -7,9 +7,15 @@
   pointer-events: none;
 }
 
+/* Increase specificity to ensure this rule is applied */
 .rd3t-label__title {
-  fill: white !important; /* Override the black text color */
+  fill: white !important; /* Force it to override other rules */
 }
+
+.rd3t-label__title text {
+  fill: white !important; /* Forcing fill on SVG text elements */
+}
+
 
 .rd3t-node {
   stroke: none; /* Remove the stroke if necessary */
