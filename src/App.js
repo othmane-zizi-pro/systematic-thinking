@@ -1,6 +1,15 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './App.css';
 import Tree from 'react-d3-tree';
+
+function App() {
+  useEffect(() => {
+    // Directly change the styles of the tree after it's rendered
+    const labels = document.querySelectorAll('.rd3t-label__title');
+    labels.forEach(label => {
+      label.setAttribute('fill', 'white'); // Force fill to white
+    });
+  }, []);
 
 const initialTreeData  = [  {    name: (
                   <a
