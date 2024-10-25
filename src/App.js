@@ -1170,6 +1170,8 @@ function App() {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'left',
+        backgroundColor: 'black', // Ensures the container background is black
+        color: 'white', // Ensures all text is white
       }}
     >
       <Tree
