@@ -18,10 +18,15 @@
   fill: white !important;  /* Force white fill for SVG text */
 }
 
-/* Ensuring links inside nodes are white */
+/* Specifically target links inside the rd3t-label__title class */
 .rd3t-label__title a {
-  color: white !important; /* Forcing white for links */
-  text-decoration: underline !important;
+  color: white !important;   /* Override default blue link color */
+  text-decoration: underline !important; /* Keep underline if needed */
+}
+
+/* Additionally, target the SVG text if it's still not working */
+.rd3t-label__title a text {
+  fill: white !important;    /* Force fill to white for any SVG links */
 }
 
 .rd3t-node {
