@@ -1180,6 +1180,21 @@ function App() {
         separation={{ siblings: 1.5, nonSiblings: 2 }}
         initialDepth={1}
         zoom={0.55} // set zoom level here
+        styles={{
+    links: { stroke: '#fff' },
+    nodes: {
+      node: {
+        circle: { fill: 'white' },
+        name: { fill: 'white' },
+        attributes: { fill: 'white' },
+      },
+      leafNode: {
+        circle: { fill: 'white' },
+        name: { fill: 'white' },
+        attributes: { fill: 'white' },
+      },
+    },
+  }}
       />
     </div>
   );
