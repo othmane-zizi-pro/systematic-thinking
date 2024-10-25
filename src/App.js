@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import './App.css';
 import Tree from 'react-d3-tree';
 
@@ -1161,6 +1161,14 @@ children: [
 ];
 
 function App() {
+    useEffect(() => {
+    // Force white text for all links inside the tree nodes
+    const links = document.querySelectorAll('.rd3t-label__title a');
+    links.forEach(link => {
+      link.style.color = 'white'; // Force white color for links
+      link.style.textDecoration = 'underline'; // Ensure underline is applied
+    });
+  }, []);
   return (
     <div
       style={{
