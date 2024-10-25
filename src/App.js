@@ -1166,7 +1166,7 @@ function App() {
     const links = document.querySelectorAll('.rd3t-label__title a');
     links.forEach(link => {
       link.style.color = 'white'; // Force white color for links
-      link.style.fill = 'white'; // In case it's treated as an SVG element
+      link.style.fill = '#d8d4d4'; // In case it's treated as an SVG element
       link.style.textDecoration = 'underline'; // Ensure underline is applied
     });
   }, []);
