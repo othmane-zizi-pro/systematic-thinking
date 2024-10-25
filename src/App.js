@@ -769,9 +769,36 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#confidenceintervals',},
-            {name: '#correlation',},
-            {name: '#descriptivestats', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #confidenceintervals
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #correlation
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #descriptivestats
+                  </a>
+                ), children: [
               {name: 'Extrema (min and max)'},
               {name: 'Mean'},
               {name: 'Median'},
@@ -781,18 +808,54 @@ children: [
               {name: 'Standard deviation'},
               {name: 'Variance'},
             ]},
-            {name: '#distributions', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #distributions
+                  </a>
+                ), children: [
               {name: 'Normal distribution'},
               {name: 'Bimodal distribution'},
               {name: 'T-distribution', children: [
               {name: 'Degrees of freedom'},
             ]},
             ]},
-            {name: '#probability', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #probability
+                  </a>
+                ), children: [
               {name: 'Bayesian probability'}
             ]},
-            {name: '#regression',},
-            {name: '#significance', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #regression
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #significance
+                  </a>
+                ), children: [
               {name: 'Hypothesis testing', children: [
               {name: 'Null hypothesis'},
               {name: 'Alternative hypothesis'},
@@ -816,17 +879,71 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#biasidentification', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #biasidentification
+                  </a>
+                ), children: [
               {name: 'Availability bias'}
             ]},
-            {name: '#biasmitigation',},
-            {name: '#decisiontrees',},
-            {name: '#psychologicalexplanation', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #biasmitigation
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #decisiontree
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #psychologicalexplanation
+                  </a>
+                ), children: [
               {name: "Maslow's hierarchy of needs"},
               {name: "Intrinic vs. extrinsic motivation"},
             ]},
-            {name: '#purpose',},
-            {name: '#utility', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #purpose
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #utility
+                  </a>
+                ), children: [
               {name: 'Expected value'}
             ]},
         ],},
@@ -841,16 +958,61 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#breakitdown',},
-            {name: '#gametheory',},
-            {name: '#gapanalysis',},
-            {name: '#rightproblem', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #breakitdown
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #gametheory
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #gapanalysis
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #rightproblem
+                  </a>
+                ), children: [
               {name: 'Initial state'},
               {name: 'Goal state'},
               {name: 'Obstacles'},
               {name: 'Scale of the problem'},
             ]},
-            {name: '#variables', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #variables
+                  </a>
+                ), children: [
               {name: 'Independent variable'},
               {name: 'Depending variable'},
               {name: 'Control variable'},
@@ -868,12 +1030,66 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#context',},
-            {name: '#critique',},
-            {name: '#estimation',},
-            {name: '#interpretivelens',},
-            {name: '#plausibility',children: [{name: "Explanatory power"},]},
-            {name: '#testability',},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #context
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #critique
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #estimation
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #interpretivelens
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #plausibility
+                  </a>
+                ),children: [{name: "Explanatory power"},]},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #testability
+                  </a>
+                ),},
         ], },
           {
             name: (
@@ -887,11 +1103,56 @@ children: [
                   </a>
                 ),
             children: [
-              {name: '#deduction',},
-              {name: '#evidencebased',},
-              {name: '#fallacies',children: [{name: "Base rate fallacy"},]},
-              {name: '#induction',},
-              {name: '#sourcequality',},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #deduction
+                  </a>
+                ),},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #evidencebased
+                  </a>
+                ),},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #fallacies
+                  </a>
+                ),children: [{name: "Base rate fallacy"},]},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #induction
+                  </a>
+                ),},
+              {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #sourcequality
+                  </a>
+                ),},
             ],
           },
         ],
