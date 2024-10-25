@@ -1170,6 +1170,7 @@ function App() {
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'left',
+        backgroundColor: '#201c1c', // Ensure the background is applied
       }}
     >
       <Tree
