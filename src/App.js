@@ -1164,6 +1164,7 @@ children: [
 function App() {
   return (
     <div
+      className="app-container"
       style={{
         width: '220vh',
         height: '99vh',
