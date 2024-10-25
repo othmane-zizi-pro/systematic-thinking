@@ -508,16 +508,79 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#casestudy',},
-            {name: '#comparisongroups',},
-            {name: '#interventionalstudy', children: [
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #casestudy
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #comparisongroups
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #interventionalstudy
+                  </a>
+                ), children: [
             {name: 'Experimental units',},
             {name: 'Treatment',},
         ]},
-            {name: '#interviewsurvey',},
-            {name: '#observationalstudy',},
-            {name: '#sampling',},
-            {name: '#studyreplication',},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #interviewsurvey
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #observationalstudy
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #sampling
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #studyreplication
+                  </a>
+                ),},
         ],},
           { name: (
                   <a
@@ -530,9 +593,36 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#dataviz',},
-            {name: '#hypothesisdevelopment',},
-            {name: '#modeling',},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #dataviz
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #hypothesisdevelopment
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #modeling
+                  </a>
+                ),},
         ],},
           { name: (
                   <a
@@ -545,11 +635,56 @@ children: [
                   </a>
                 ),
           children: [
-            {name: '#algorithms',},
-            {name: '#analogies',},
-            {name: '#constraints',},
-            {name: '#designthinking',},
-            {name: '#heuristics',
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #algorithms
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #analogies
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #constraints
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #designthinking
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #heuristics
+                  </a>
+                ),
             children: [{name: "Problem-solving (Martinez, 1998)",
             children: [{name: "1. Means-ends analysis",},
             {name: "2. Working backward"},
@@ -563,8 +698,26 @@ children: [
         
         }]
           },
-            {name: '#optimization',},
-            {name: '#scienceoflearning',
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #optimization
+                  </a>
+                ),},
+            {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ color: 'blue', textDecoration: 'underline' }}
+                  >
+                    #scienceoflearning
+                  </a>
+                ),
             children: [{name: "Think it through",
                   children: [{name: "Process relevant information to improve retention",
                      children: [{name: "1. Evoking deep processing"},
