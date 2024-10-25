@@ -2,7 +2,15 @@ import React from 'react';
 import './App.css';
 import Tree from 'react-d3-tree';
 
-const initialTreeData  = [  {    name: "huhiu",
+const initialTreeData  = [  {    name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Critical-Wisdom-1285bd9a7d0c80e5aab4e350efb5d930"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    Critical Wisdom
+                  </a>
+                ),
 children: [{name: (
                   <a
                     href="https://petite-lute-69e.notion.site/Communicating-Effectively-1285bd9a7d0c807d90ffde5e087c4674"
