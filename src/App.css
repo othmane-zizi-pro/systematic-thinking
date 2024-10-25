@@ -11,6 +11,15 @@ a {
   color: white !important;
 }
 
+.app-container {
+  background-color: #201c1c !important;
+  color: white !important;
+}
+
+.app-container a {
+  color: white !important;
+}
+
 
 .App-logo {
   height: 40vmin;
