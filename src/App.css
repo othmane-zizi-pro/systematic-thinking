@@ -12,9 +12,18 @@
 }
 
 .rd3t-node {
-  fill: white !important; /* Ensure node text is also white */
   stroke: none; /* Remove the stroke if necessary */
 }
+
+a {
+  color: white !important; /* Ensure all links are white */
+  text-decoration: underline !important; /* Keep underline if necessary */
+}
+
+.rd3t-node a {
+  color: white !important; /* Specifically target links inside the nodes */
+}
+
 
 
 @media (prefers-reduced-motion: no-preference) {
