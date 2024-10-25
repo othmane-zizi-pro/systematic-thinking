@@ -20,7 +20,7 @@
 
 /* Specifically target links inside the rd3t-label__title class */
 .rd3t-label__title a {
-  color: white !important;   /* Override default blue link color */
+  fill: #d8d4d4 !important;   /* Override default blue link color */
   text-decoration: underline !important; /* Keep underline if needed */
 }
 
