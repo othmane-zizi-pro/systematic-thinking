@@ -604,7 +604,7 @@ children: [
 {name: "Ingredients", children: [
 {name: "Features"},
 {name: "Observations"},
-{name: "Target (for supervised learning)"},
+{name: "Target (for Supervised Learning)"},
 ]},
         {name: "Types", children: [
 {name: "Supervised Learning"},
