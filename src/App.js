@@ -519,7 +519,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/comparisongroups-1285bd9a7d0c809faf4fc8a841a8af42"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -529,7 +529,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/interventionalstudy-1285bd9a7d0c8002ade7fd21da5135a2"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -542,7 +542,7 @@ children: [
         ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/interviewsurvey-1285bd9a7d0c8083b070c7ede79b1370"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -552,7 +552,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/observationalstudy-1285bd9a7d0c80929ed0d5258512ef9f"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -562,7 +562,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/sampling-1285bd9a7d0c809f9b34ef4fe3153334"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -572,7 +572,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/studyreplication-1285bd9a7d0c80289c84e9982e6befb7"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -594,7 +594,7 @@ children: [
           children: [
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/dataviz-1285bd9a7d0c800a9a9dc8c274f912e4"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -604,7 +604,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/hypothesisdevelopment-1285bd9a7d0c8051bf1bd0559a9d0e90"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -614,7 +614,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/modeling-1285bd9a7d0c80948102fa73f7ecf749"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -636,7 +636,7 @@ children: [
           children: [
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/algorithms-1285bd9a7d0c80f99b07daf82329996c"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -646,7 +646,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/analogies-1285bd9a7d0c8035b084f59900d8b682"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -656,7 +656,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/constraints-1285bd9a7d0c8037af93deee1e81a55c"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -666,7 +666,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/designthinking-1285bd9a7d0c800eaa32d21ab15aaa2a"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -676,7 +676,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/heuristics-1285bd9a7d0c8049861bc9c91554c3cb"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -699,7 +699,7 @@ children: [
           },
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/optimization-1285bd9a7d0c8043b9a1e9f883f2067b"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -709,7 +709,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/scienceoflearning-1285bd9a7d0c802d8783c3b783d472e7"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -770,7 +770,7 @@ children: [
           children: [
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/confidenceintervals-1285bd9a7d0c80bc9628d40072f28cfd"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -780,7 +780,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/correlation-1285bd9a7d0c804d9fbbcaa6adce5188"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -790,7 +790,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/descriptivestats-1285bd9a7d0c80b6ab36ee4e5de451d1"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -809,7 +809,7 @@ children: [
             ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/distributions-1285bd9a7d0c806e8e06c81d19439420"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -825,7 +825,7 @@ children: [
             ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/probability-1285bd9a7d0c806da74bd505c2505ed1"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -837,7 +837,7 @@ children: [
             ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/regression-1285bd9a7d0c801ba968d954d3008a8f"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -847,7 +847,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/significance-1285bd9a7d0c809b9e3ce5ac52e465b5"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -880,7 +880,7 @@ children: [
           children: [
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/biasidentification-1285bd9a7d0c801fb74bd860d861bab9"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -892,7 +892,7 @@ children: [
             ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/biasmitigation-1285bd9a7d0c804885bdee6fbf3701c8"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -902,17 +902,17 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/decisiontrees-1285bd9a7d0c80688355d09152dccd0d"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
                   >
-                    #decisiontree
+                    #decisiontrees
                   </a>
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/psychologicalexplanation-1285bd9a7d0c805483dffe12bedb4081"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -925,7 +925,7 @@ children: [
             ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/purpose-1285bd9a7d0c80779fddfffeec2a4fcd"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -935,7 +935,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/utility-1285bd9a7d0c80d78111d8643248b93c"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -959,7 +959,7 @@ children: [
           children: [
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/breakitdown-1285bd9a7d0c80d18584f809cddee2f1"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -969,7 +969,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/gametheory-1285bd9a7d0c8058b604c1e7267af4ba"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -979,7 +979,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/gapanalysis-1285bd9a7d0c80809679cb38687c97b9"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -989,7 +989,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/rightproblem-1285bd9a7d0c80e49df3fc74a9ed94e2"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1004,7 +1004,7 @@ children: [
             ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/variables-1285bd9a7d0c8064be78e3bd055ef384"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1031,7 +1031,7 @@ children: [
           children: [
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/context-1285bd9a7d0c8028a190cab3b98f6c28"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1041,7 +1041,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/critique-1285bd9a7d0c803aa8bcf3311515d48d"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1051,7 +1051,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/estimation-1285bd9a7d0c800989f4eb251eecc687"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1061,7 +1061,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/interpretivelens-1285bd9a7d0c80faadbdd192fce37d1d"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1071,7 +1071,7 @@ children: [
                 ),},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/plausibility-1285bd9a7d0c80488072c8c30720e5a8"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1081,7 +1081,7 @@ children: [
                 ),children: [{name: "Explanatory power"},]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/testability-1285bd9a7d0c80d0a72fe6a7e76a882a"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1104,7 +1104,7 @@ children: [
             children: [
               {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/deduction-1285bd9a7d0c8059b0ded4e53d1243d1"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1114,7 +1114,7 @@ children: [
                 ),},
               {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/evidencebased-1285bd9a7d0c80f88e7fc260779512de"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1124,7 +1124,7 @@ children: [
                 ),},
               {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/fallacies-1285bd9a7d0c80b694f5ca501939b4c6"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1134,7 +1134,7 @@ children: [
                 ),children: [{name: "Base rate fallacy"},]},
               {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/induction-1285bd9a7d0c80568f83cf2c491bc4ef"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
@@ -1144,7 +1144,7 @@ children: [
                 ),},
               {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/casestudy-1285bd9a7d0c80e99a3bf2fc2737f144"
+                    href="https://petite-lute-69e.notion.site/sourcequality-1285bd9a7d0c8056a672dbac9b20dea1"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
