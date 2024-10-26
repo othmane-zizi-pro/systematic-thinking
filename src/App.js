@@ -600,7 +600,19 @@ children: [
                   </a>
                 ), children: [
     {
-      name: "Machine Learning"
+      name: "Machine Learning", children: [
+{name: "Ingredients", children: [
+{name: "Features"},
+{name: "Observations"},
+{name: "Target (for supervised learning)"},
+]},
+        {name: "Types", children: [
+{name: "Supervised Learning"},
+{name: "Unsupervised Learning"},
+{name: "Reinforcement Learning with Human Feedback"},
+]},
+       
+]
     }
   ]},
         ],},
