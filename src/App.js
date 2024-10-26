@@ -598,7 +598,7 @@ children: [
                   >
                     #modeling
                   </a>
-                ),},
+                ), children: {name: "Machine Learning"},
         ],},
           { name: (
                   <a
