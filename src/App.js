@@ -598,8 +598,7 @@ children: [
                   >
                     #modeling
                   </a>
-              ), children: [{name: "Machine Learning"}],
-        ],},
+              ),},
           { name: (
                   <a
                     href="https://petite-lute-69e.notion.site/Solving-problems-1285bd9a7d0c80a89156d15ff5b17070"
