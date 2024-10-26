@@ -993,10 +993,17 @@ children: [
                     #variables
                   </a>
                 ), children: [
-              {name: 'Independent variable'},
+              {name: 'Types', children: [
+               {name: 'Continuous'},
+              {name: 'Discrete'},
+              {name: 'Categorical'}, 
+              ]},
+              {name: 'Roles', children: [
+                {name: 'Independent variable'},
               {name: 'Depending variable'},
               {name: 'Control variable'},
               {name: 'Confounding variable'},
+              ]},
             ]},
         ], },
           { name: (
