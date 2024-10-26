@@ -1000,7 +1000,7 @@ children: [
               ]},
               {name: 'Roles', children: [
                 {name: 'Independent variable'},
-              {name: 'Depending variable'},
+              {name: 'Dependent variable'},
               {name: 'Control variable'},
               {name: 'Confounding variable'},
               ]},
