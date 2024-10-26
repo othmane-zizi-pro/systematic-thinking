@@ -600,7 +600,16 @@ children: [
                   </a>
                 ), children: [
     {
-      name: "Machine Learning", children: [
+      name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/Machine-Learning-12b5bd9a7d0c8060be1dc337aedcdd2b"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ textDecoration: 'underline' }}
+                  >
+                    Machine Learning
+                  </a>
+                ), children: [
 {name: "Ingredients", children: [
 {name: "Features"},
 {name: "Observations"},
