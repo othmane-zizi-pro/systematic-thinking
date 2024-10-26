@@ -293,26 +293,6 @@ children: [
           children: [
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/carrotandstick-1285bd9a7d0c80a1bd74da3767172d68"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
-                  >
-                    #carrotandstick
-                  </a>
-                ),},
-            {name: (
-                  <a
-                    href="https://petite-lute-69e.notion.site/confidence-1285bd9a7d0c80188853c7c1db580aaa"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
-                  >
-                    #confidence
-                  </a>
-                ),},
-            {name: (
-                  <a
                     href="https://petite-lute-69e.notion.site/negotiate-1285bd9a7d0c80078632e55294d68a09"
                     target="_blank"
                     rel="noopener noreferrer"
@@ -326,25 +306,22 @@ children: [
             ]},
             {name: (
                   <a
-                    href="https://petite-lute-69e.notion.site/nudge-1285bd9a7d0c80738762c9c8aa94fbfe"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    style={{ textDecoration: 'underline' }}
-                  >
-                    #nudge
-                  </a>
-                ), children: [
-              {name: 'Liberty-preserving'},
-              {name: 'Default choice'}
-            ]},
-            {name: (
-                  <a
                     href="https://petite-lute-69e.notion.site/persuasion-1285bd9a7d0c804e8504fc22a0c963f0"
                     target="_blank"
                     rel="noopener noreferrer"
                     style={{ textDecoration: 'underline' }}
                   >
                     #persuasion
+                  </a>
+                ),},
+                  {name: (
+                  <a
+                    href="https://petite-lute-69e.notion.site/shapingbehavior-1285bd9a7d0c80a1bd74da3767172d68"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{ textDecoration: 'underline' }}
+                  >
+                    #shapingbehavior
                   </a>
                 ),},
         ],},
