@@ -1195,7 +1195,7 @@ function App() {
         translate={{ x: 360, y: 270 }}
         nodeSize={{ x: 420, y: 70 }} //x: 314
         separation={{ siblings: 1.5, nonSiblings: 2 }}
-        initialDepth={1}
+        initialDepth={3}
         zoom={0.55} // set zoom level here
         styles={{
     links: { stroke: '#fff' },
